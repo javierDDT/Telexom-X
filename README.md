@@ -1,3 +1,3 @@
 # Telexom-X
 challenge de Alura
-ESe a procesado los datios, separarlos para luego proceder con calculos correspondientes a media, mediana, y demas.
+Se proceso los datos, separarlos en columnas para luego proceder con calculos correspondientes a media, mediana, y demas.
